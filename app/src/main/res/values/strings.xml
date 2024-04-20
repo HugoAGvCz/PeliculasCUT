@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Películas</string>
+    <string name="edit_peli_nombre">Nombre</string>
+    <string name="edit_peli_genero">Género</string>
+    <string name="edit_peli_anio">Año</string>
+    <string name="edit_peli_btnEditar">Editar Película</string>
+    <string name="edit_peli_btnEliminar">Eliminar Película</string>
+
+</resources>
